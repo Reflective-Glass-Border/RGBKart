@@ -74,4 +74,9 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # to split commit 
-Content/*
+Content/AudioVisualisation/*
+Content/coconut/*
+Content/GrassLandscape/*
+Content/Maps/*
+Content/PhotoR_Backgrounds/*
+Content/StarterContent/*
