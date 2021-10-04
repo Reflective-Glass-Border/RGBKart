@@ -72,6 +72,3 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-
-# to split commit 
-Content/PhotoR_Backgrounds/*
