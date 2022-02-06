@@ -4,10 +4,13 @@ An experimental Kartoon racing game with plans to become multiplayer.
 
 ## Download
 [Current Releases](https://github.com/Reflective-Glass-Border/RGBKart/releases/)
+
 [Archived Releases](https://github.com/Reflective-Glass-Border/RGBnext/releases/)
 
 ## State of development
-Active, but not priority.
+Discontinued.
+
+Current project: Operation: Snow (link soon)
 
 ## planned features:
 * good ui
